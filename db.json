@@ -1,0 +1,8 @@
+{
+  "producers": [
+    { "id": 1, "name": "Adejair Júnior", "phone": "62992223333" },
+    { "id": 2, "name": "Divino Borges de Oliveira Filho", "phone": "62992556666"},
+    { "id": 3, "name": "João Gabriel", "phone": "62992557777"},
+    { "id": 4, "name": "Silas Augusto", "phone": "62992558888"}
+  ],
+}
