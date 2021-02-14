@@ -1,9 +1,9 @@
 {
   "confirmations": [
-    { "id": 1, "client": "Adejair Júnior", "buyer": "Adejair Júnior", "withdrawal": "20/20/2020", "delivery": "20/20/2020", "date": "13/13/2020"},
-    { "id": 2, "client": "Divino Borges de Oliveira Filho", "buyer": "Adejair Júnior", "withdrawal": "10/10/2020", "delivery": "20/20/2020", "date": "13/13/2020"},
-    { "id": 3, "client": "João Gabriel", "buyer": "Adejair Júnior", "withdrawal": "03/03/2020", "delivery": "20/20/2020", "date": "13/13/2020"},
-    { "id": 4, "client": "Silas Augusto", "buyer": "Adejair Júnior", "withdrawal": "04/04/2020", "delivery": "20/20/2020", "date": "13/13/2020"},
-    { "id": 5, "client": "Gildo", "buyer": "Adejair Júnior", "withdrawal": "05/05/2020", "delivery": "20/20/2020", "date": "13/13/2020"}
+    { "id": 1, "client": "Adejair Júnior", "buyer": "Adejair Júnior", "withdrawal": "20/20/2020", "delivery": "20/20/2020", "date": "13/13/2020", "total": 2910000},
+    { "id": 2, "client": "Divino Borges de Oliveira Filho", "buyer": "Adejair Júnior", "withdrawal": "10/10/2020", "delivery": "20/20/2020", "date": "13/13/2020", "total": 1340060},
+    { "id": 3, "client": "João Gabriel", "buyer": "Adejair Júnior", "withdrawal": "03/03/2020", "delivery": "20/20/2020", "date": "13/13/2020", "total": 5210700},
+    { "id": 4, "client": "Silas Augusto", "buyer": "Adejair Júnior", "withdrawal": "04/04/2020", "delivery": "20/20/2020", "date": "13/13/2020", "total": 710200},
+    { "id": 5, "client": "Gildo", "buyer": "Adejair Júnior", "withdrawal": "05/05/2020", "delivery": "20/20/2020", "date": "13/13/2020", "total": 862000}
   ]
 }
